@@ -1,0 +1,3302 @@
+[
+  {
+    "record": {
+      "transaction_id": "9784713d-1840-4642-9404-7909d81ca1a0",
+      "entity_id": "cb9faf6d-ef3a-4f27-af06-fccb8f7c1d59",
+      "category": "Grocery",
+      "transaction_amount": -345.68,
+      "currency": "GBP",
+      "timestamp": "2026-08-02T15:15:24.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -345.68,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "cbafd542-58e9-4bad-b5b1-773c6d56cfd5",
+      "entity_id": "83f4a9a9-48a6-49d0-95b5-2908a8aa7158",
+      "category": "Grocery",
+      "transaction_amount": -2528.15,
+      "currency": "EUR",
+      "timestamp": "2026-04-30T11:33:59.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2528.15,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "33383ec9-5037-4669-8a3a-0129a9d84c4f",
+      "entity_id": "3b6dca0d-6fe5-440b-9901-ef870dbf0caf",
+      "category": "Healthcare",
+      "transaction_amount": -1263.81,
+      "currency": "GBP",
+      "timestamp": "2026-04-14T00:45:44.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1263.81,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "2e3bdb69-8c2d-4e27-8370-f2e2abeb5f49",
+      "entity_id": "c6196773-6f3a-4f33-8077-7ac56605de3c",
+      "category": "Electronics",
+      "transaction_amount": -3142.94,
+      "currency": "GBP",
+      "timestamp": "2026-04-21T22:08:27.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3142.94,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "36841339-7fcb-4f31-93ac-009a2fc10403",
+      "entity_id": "f85b6d0a-54b5-4635-bdab-161452150ed8",
+      "category": "Healthcare",
+      "transaction_amount": -1347.0,
+      "currency": "GBP",
+      "timestamp": "2026-09-27T22:46:56.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1347.0,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c4e4fe52-da4f-406b-9d4a-c78bcf1643a0",
+      "entity_id": "e12ff6cd-d6ea-4269-914e-13532f237c4d",
+      "category": "Healthcare",
+      "transaction_amount": -4673.83,
+      "currency": "GBP",
+      "timestamp": "2026-05-22T19:02:53.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4673.83,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "5d411ac5-335d-4b46-85b3-75aa0f546781",
+      "entity_id": "90ce77e9-7513-43b9-87de-96ea2b0fbe44",
+      "category": "Clothing",
+      "transaction_amount": -1209.47,
+      "currency": "GBP",
+      "timestamp": "2026-06-28T07:33:23.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1209.47,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "6f75a3b2-d818-4112-8cde-dddbc3f9c78c",
+      "entity_id": "508211a5-d9b5-4f84-adc3-a1c32dea2d2d",
+      "category": "Grocery",
+      "transaction_amount": -4302.33,
+      "currency": "USD",
+      "timestamp": "2026-07-21T01:15:53.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4302.33,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "4455d60e-6995-4fd1-9891-4adf341c612a",
+      "entity_id": "3d53ec43-a015-4b5b-ac17-e150144716cc",
+      "category": "Grocery",
+      "transaction_amount": -3233.75,
+      "currency": "EUR",
+      "timestamp": "2026-07-01T02:22:35.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3233.75,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3d0d3ffd-67e6-449a-bc73-013b99ea5bbd",
+      "entity_id": "680bac63-b856-4035-bdc9-829015eabb27",
+      "category": "Clothing",
+      "transaction_amount": -967.66,
+      "currency": "USD",
+      "timestamp": "2026-07-21T15:41:45.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -967.66,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "7c420494-76d3-4b96-8f7f-963ed3c544a3",
+      "entity_id": "ebc92914-5176-49d1-9a36-24d62e9ce8ff",
+      "category": "Healthcare",
+      "transaction_amount": -2115.88,
+      "currency": "USD",
+      "timestamp": "2026-09-02T10:44:23.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2115.88,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "0775d778-22ed-4e25-85d0-738228cbb7ca",
+      "entity_id": "dfc620ce-7b07-4d31-a424-4f230d5ba7cd",
+      "category": "Grocery",
+      "transaction_amount": -3296.77,
+      "currency": "USD",
+      "timestamp": "2026-01-14T08:25:55.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3296.77,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b8f40e5e-f6ba-4ccc-8acf-bd89da3ed15a",
+      "entity_id": "6210def6-3a9c-4308-9221-cddf7a4a902f",
+      "category": "Electronics",
+      "transaction_amount": -286.08,
+      "currency": "USD",
+      "timestamp": "2026-07-05T02:59:52.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -286.08,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1046e3df-ddfe-4849-8c48-5cfc9a0270da",
+      "entity_id": "e5ad481d-577f-4c16-a6d6-58fb39bfc9b6",
+      "category": "Healthcare",
+      "transaction_amount": -4484.9,
+      "currency": "GBP",
+      "timestamp": "2026-02-26T19:32:55.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4484.9,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f17312f4-659a-49f2-971e-5028e2be80e1",
+      "entity_id": "f80590f0-0249-4a09-be3b-1a40ca0553a2",
+      "category": "Clothing",
+      "transaction_amount": -1187.85,
+      "currency": "GBP",
+      "timestamp": "2026-07-10T05:26:29.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1187.85,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "859f02bb-1ee2-4f39-aed4-db8980104995",
+      "entity_id": "000b1f5e-8c91-4d13-8ea0-2346092c4801",
+      "category": "Retail",
+      "transaction_amount": -4748.88,
+      "currency": "GBP",
+      "timestamp": "2026-08-09T03:35:51.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4748.88,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3cf29ade-171a-4b65-a272-d7ca7f176b55",
+      "entity_id": "ec4e8cbb-a2aa-478c-a59e-0258814ff657",
+      "category": "Electronics",
+      "transaction_amount": -3868.22,
+      "currency": "EUR",
+      "timestamp": "2026-02-02T16:45:55.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3868.22,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "63d3ce8e-bcbb-459a-9596-6725d513da02",
+      "entity_id": "1440adec-1243-4b0f-a835-f080d9518f98",
+      "category": "Clothing",
+      "transaction_amount": -4678.15,
+      "currency": "USD",
+      "timestamp": "2026-03-04T18:54:40.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4678.15,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f84ce7a9-36cf-42d5-acd6-e8df1b5829c9",
+      "entity_id": "0b36e356-339b-47a8-8b1f-0d7b0977c513",
+      "category": "Healthcare",
+      "transaction_amount": -2047.79,
+      "currency": "GBP",
+      "timestamp": "2025-12-22T22:30:42.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2047.79,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b31a25b5-5fec-4a6e-8891-7cf57d8823d2",
+      "entity_id": "af92ef22-1d24-47e2-8191-d19dc45c3fbb",
+      "category": "Electronics",
+      "transaction_amount": -1589.28,
+      "currency": "EUR",
+      "timestamp": "2025-11-18T15:00:24.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1589.28,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "47198f5c-f69b-4596-bf10-938caec7f267",
+      "entity_id": "64f2502e-c94f-4ed3-8a2f-38766e935615",
+      "category": "Clothing",
+      "transaction_amount": -1821.36,
+      "currency": "GBP",
+      "timestamp": "2026-04-30T07:42:19.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1821.36,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a538c6a7-0565-4e80-8ee4-5227d2450039",
+      "entity_id": "f5530567-03e7-4d21-9d4d-46d6460d113d",
+      "category": "Retail",
+      "transaction_amount": -183.7,
+      "currency": "GBP",
+      "timestamp": "2026-03-19T17:19:21.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -183.7,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b0d090bd-0dff-41ba-b0db-6ecbcc876b1c",
+      "entity_id": "74f76d09-739c-4fa5-9bfc-270c85494255",
+      "category": "Clothing",
+      "transaction_amount": -1272.38,
+      "currency": "EUR",
+      "timestamp": "2026-07-12T02:06:50.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1272.38,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "5ce4124b-b35b-4f78-b55f-2e80a3922a4e",
+      "entity_id": "e8e46b31-4ff8-4111-b875-1fd46d2ccf42",
+      "category": "Electronics",
+      "transaction_amount": -2679.2,
+      "currency": "USD",
+      "timestamp": "2026-02-25T00:20:07.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2679.2,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "e8e7f030-0203-4340-a372-d63571414f58",
+      "entity_id": "bb8141f0-7bc4-4138-ac73-75985711d5fd",
+      "category": "Healthcare",
+      "transaction_amount": -4638.26,
+      "currency": "EUR",
+      "timestamp": "2026-09-25T23:35:41.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4638.26,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c1b4fd44-d29c-492a-afb2-d33c171aa532",
+      "entity_id": "780b3657-117b-455b-b094-4bdb26a524e3",
+      "category": "Grocery",
+      "transaction_amount": -1059.83,
+      "currency": "USD",
+      "timestamp": "2026-02-21T18:13:30.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1059.83,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "e124c3f2-5132-4e68-a1a0-54a970583380",
+      "entity_id": "c3d6cd54-8623-4c74-a5a2-9cc8c55be95d",
+      "category": "Healthcare",
+      "transaction_amount": -3948.69,
+      "currency": "EUR",
+      "timestamp": "2026-10-18T14:27:54.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3948.69,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f0c44ecb-c78a-4900-92bd-16ec148113b4",
+      "entity_id": "159152f2-a505-4a9c-86e7-5a2c3f6eed9d",
+      "category": "Healthcare",
+      "transaction_amount": -3687.34,
+      "currency": "EUR",
+      "timestamp": "2026-09-29T09:35:35.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3687.34,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "d1fb55b1-eb25-47e7-a073-6c706c202d89",
+      "entity_id": "20500494-3d11-4802-a702-878b9f0fda8d",
+      "category": "Clothing",
+      "transaction_amount": -3495.43,
+      "currency": "GBP",
+      "timestamp": "2026-08-02T12:15:59.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3495.43,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "baaeebf8-9a24-4525-abbe-2bd65a1341e7",
+      "entity_id": "e2ae3f87-ee7c-4782-a7a3-1d2515956c42",
+      "category": "Retail",
+      "transaction_amount": -3691.55,
+      "currency": "EUR",
+      "timestamp": "2025-11-22T16:19:53.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3691.55,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a43101e4-0d56-4923-8310-d2a2070077c1",
+      "entity_id": "33a0daa7-f91e-4fcd-85ec-e729d4dd1b56",
+      "category": "Clothing",
+      "transaction_amount": -3154.48,
+      "currency": "GBP",
+      "timestamp": "2026-07-24T21:34:19.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3154.48,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a0d80651-3338-42d1-a691-c66400c99370",
+      "entity_id": "92779574-c457-4cc3-b5f7-89bca6b07458",
+      "category": "Grocery",
+      "transaction_amount": -2883.29,
+      "currency": "USD",
+      "timestamp": "2025-12-19T18:12:56.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2883.29,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f83bf029-b6ac-4048-8430-8e0c3fe604f4",
+      "entity_id": "fc04ca7a-ee41-4f16-a263-307cb9787c4b",
+      "category": "Clothing",
+      "transaction_amount": -4236.33,
+      "currency": "GBP",
+      "timestamp": "2025-12-28T04:45:21.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4236.33,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "7394d796-51c4-443b-b07d-b671caea9ae5",
+      "entity_id": "c9ce44bd-7c3f-4add-9a38-5db590eeb067",
+      "category": "Clothing",
+      "transaction_amount": -1310.79,
+      "currency": "GBP",
+      "timestamp": "2026-04-05T06:10:06.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1310.79,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "4823debe-ccad-492e-93dc-4faed3a71b83",
+      "entity_id": "5cae9610-c72c-4fe3-b2c2-2a1679eb4168",
+      "category": "Electronics",
+      "transaction_amount": -2078.34,
+      "currency": "USD",
+      "timestamp": "2026-06-15T05:05:42.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2078.34,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "d5ad86bc-f1db-4ad8-a098-0b94e05b1892",
+      "entity_id": "6c6d282b-69e0-4370-abf7-a5d01ccec1ef",
+      "category": "Retail",
+      "transaction_amount": -1130.19,
+      "currency": "USD",
+      "timestamp": "2026-03-29T17:22:32.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1130.19,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a06aa68a-9cac-4d21-a5a8-c8af8efbd22a",
+      "entity_id": "5ca260c9-eb76-47c9-b08a-4895d4ffa666",
+      "category": "Electronics",
+      "transaction_amount": -4870.9,
+      "currency": "USD",
+      "timestamp": "2026-10-21T09:46:29.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4870.9,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "0cbe938d-2b33-4734-9a11-9684b385d9de",
+      "entity_id": "01b158e9-0406-4f44-bce4-0679a8c6dbc0",
+      "category": "Retail",
+      "transaction_amount": -2150.23,
+      "currency": "EUR",
+      "timestamp": "2026-02-06T13:44:24.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -2150.23,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "2b8d2c49-5e30-43e1-b541-a44e16ccb813",
+      "entity_id": "5982aa44-5573-48cf-8ba5-605069fe99a9",
+      "category": "Retail",
+      "transaction_amount": -595.58,
+      "currency": "GBP",
+      "timestamp": "2025-12-24T20:51:58.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -595.58,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "eda413c6-eb84-46e4-85fa-e0476f669013",
+      "entity_id": "5a1baf0e-5911-46dc-9d3e-503a9645f0e4",
+      "category": "Healthcare",
+      "transaction_amount": -601.38,
+      "currency": "GBP",
+      "timestamp": "2026-05-20T02:54:24.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -601.38,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "d03bcbfc-dca7-4284-b230-7c2230c7809b",
+      "entity_id": "84399ed9-5a64-445e-b498-16ad6994bf84",
+      "category": "Grocery",
+      "transaction_amount": -1446.93,
+      "currency": "EUR",
+      "timestamp": "2026-01-14T19:11:46.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1446.93,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "34e420bf-db38-4306-ae6a-3d5b2154be4a",
+      "entity_id": "ec4e8cbb-a2aa-478c-a59e-0258814ff657",
+      "category": "Clothing",
+      "transaction_amount": -4976.09,
+      "currency": "EUR",
+      "timestamp": "2026-03-25T06:55:38.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4976.09,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "2e2cb850-6b17-4d75-b07a-1acbad5c3c49",
+      "entity_id": "0ae4ac11-eb4d-4f42-8735-70a2e5110961",
+      "category": "Clothing",
+      "transaction_amount": -153.58,
+      "currency": "EUR",
+      "timestamp": "2026-08-06T03:09:15.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -153.58,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3f91c419-e846-49df-b373-35549e204ac7",
+      "entity_id": "1e5ebe54-5907-4299-9c3b-bdd8a74e02a9",
+      "category": "Retail",
+      "transaction_amount": -3424.49,
+      "currency": "EUR",
+      "timestamp": "2026-01-27T08:37:45.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3424.49,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "df16eb70-2219-47f7-b808-a00402a458e1",
+      "entity_id": "9dd2f9de-fd98-4e33-a498-abe92999bbef",
+      "category": "Healthcare",
+      "transaction_amount": -3437.39,
+      "currency": "GBP",
+      "timestamp": "2025-11-30T04:53:11.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -3437.39,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "98e1d54c-bc71-4183-ac5c-cba7b55d2fc1",
+      "entity_id": "c7332304-4822-4120-84f9-eccd7630a8a7",
+      "category": "Electronics",
+      "transaction_amount": -485.44,
+      "currency": "USD",
+      "timestamp": "2026-03-25T20:10:51.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -485.44,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "788f06ed-3c1e-419b-ae5a-400755367ab6",
+      "entity_id": "1b555f6d-301c-4abf-8773-9d4626e6a84a",
+      "category": "Grocery",
+      "transaction_amount": -4983.73,
+      "currency": "GBP",
+      "timestamp": "2025-11-17T03:28:08.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4983.73,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "cf5285f7-bf8c-46f9-b5a6-1d619925bc9b",
+      "entity_id": "675dd5af-3c36-4296-9ca0-2eecacdabacc",
+      "category": "Electronics",
+      "transaction_amount": -1275.75,
+      "currency": "GBP",
+      "timestamp": "2026-09-04T11:14:31.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -1275.75,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "abd7d3f1-650a-49aa-ba3f-012e4d711f28",
+      "entity_id": "d5b6de85-3902-49d9-ba8d-ae42ba54e920",
+      "category": "Clothing",
+      "transaction_amount": -4840.61,
+      "currency": "GBP",
+      "timestamp": "2026-03-24T20:20:26.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4840.61,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "2b7c5ee3-42a2-4950-adeb-5687949aca46",
+      "entity_id": "9bdc70d1-9cbf-4b8c-b410-2d5d1db14bfc",
+      "category": "Healthcare",
+      "transaction_amount": -4652.33,
+      "currency": "EUR",
+      "timestamp": "2025-11-12T21:03:24.529095"
+    },
+    "error": [
+      {
+        "type": "greater_than",
+        "loc": [
+          "transaction_amount"
+        ],
+        "msg": "Input should be greater than 0",
+        "input": -4652.33,
+        "ctx": {
+          "gt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "87c9daac-b5d3-4f2f-913b-b65c16f32b93",
+      "entity_id": null,
+      "category": "Clothing",
+      "transaction_amount": 1309.43,
+      "currency": "EUR",
+      "timestamp": "2025-12-18T03:19:24.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "df266424-7fcc-4456-a0bc-2fa0fa801062",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 3741.64,
+      "currency": "EUR",
+      "timestamp": "2025-11-14T01:21:55.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "9ce91544-4362-462d-a07e-e721e71d6ba3",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 2589.69,
+      "currency": "EUR",
+      "timestamp": "2026-02-14T18:48:03.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "fe9bd0e1-bca3-4653-90c7-6baa2a3c6137",
+      "entity_id": null,
+      "category": "Clothing",
+      "transaction_amount": 2782.82,
+      "currency": "GBP",
+      "timestamp": "2026-10-09T14:02:54.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "305d0ef7-0d9f-483d-b0a3-2883cc582872",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 1157.0,
+      "currency": "USD",
+      "timestamp": "2026-07-02T03:46:21.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "7796048f-b4b9-4b73-a9de-bccc429e09bd",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 4976.06,
+      "currency": "EUR",
+      "timestamp": "2026-04-28T12:46:07.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b582ef0c-fd23-46f4-9b44-e6ed71076f2e",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 2294.22,
+      "currency": "USD",
+      "timestamp": "2025-11-12T17:57:01.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1fa7cddf-25e6-4919-9deb-cd5cb8427379",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 1026.63,
+      "currency": "EUR",
+      "timestamp": "2026-09-21T09:31:44.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "823ca34a-bffb-493b-ab15-619ed5bf85f3",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 2820.6,
+      "currency": "GBP",
+      "timestamp": "2026-01-06T01:34:13.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f8bc920c-ff7d-49f7-9563-5c97365f982b",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 3836.57,
+      "currency": "USD",
+      "timestamp": "2026-06-12T08:39:11.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c4ac41b5-3f04-4c7b-93ab-7d2ceba0330c",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 4437.96,
+      "currency": "USD",
+      "timestamp": "2026-04-07T15:03:01.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1f3acc68-ae3e-4268-bb38-bc6cae6a7c48",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 2955.79,
+      "currency": "USD",
+      "timestamp": "2026-02-15T07:26:14.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "14c08f6d-0764-41d3-a75d-d45952d36897",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 2275.74,
+      "currency": "EUR",
+      "timestamp": "2026-09-17T22:56:13.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f842e163-5455-4290-817c-75c5a87319fe",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 4754.97,
+      "currency": "EUR",
+      "timestamp": "2026-06-15T16:07:45.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f5185923-e829-4e3b-bbfc-5dc1fff446b9",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 655.31,
+      "currency": "USD",
+      "timestamp": "2026-08-08T00:14:23.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "cc535c3e-52bb-430d-886f-ac8fa4c5dae5",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 2740.31,
+      "currency": "GBP",
+      "timestamp": "2026-09-04T04:48:21.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "2d921dab-4152-4bff-a61b-973817b16c43",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 455.05,
+      "currency": "USD",
+      "timestamp": "2026-03-25T00:33:55.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "48f18eed-6703-4089-878c-d2c36374ed14",
+      "entity_id": null,
+      "category": "Clothing",
+      "transaction_amount": 611.8,
+      "currency": "EUR",
+      "timestamp": "2025-12-30T04:27:41.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "ebf484d0-ce6d-49bf-bc63-3d6c6eaf0a90",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 665.12,
+      "currency": "GBP",
+      "timestamp": "2026-09-04T00:32:28.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "332ac35a-833d-4df1-9e11-a680d5016ada",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 4428.21,
+      "currency": "EUR",
+      "timestamp": "2025-12-04T05:34:05.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1718cfde-6c4e-4a8c-99af-ee6490248225",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 4056.86,
+      "currency": "GBP",
+      "timestamp": "2026-02-09T04:09:12.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "17cb67b8-6d0f-44e6-a174-a7856f2190cb",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 1715.31,
+      "currency": "EUR",
+      "timestamp": "2026-01-08T06:42:23.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b6b0d0b9-afad-428e-a5c9-cf20396726aa",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 2641.12,
+      "currency": "GBP",
+      "timestamp": "2026-07-17T14:37:20.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "6ff6881f-77dd-462b-8a6b-836b157f108b",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 1508.96,
+      "currency": "USD",
+      "timestamp": "2026-05-19T16:05:44.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3fa7c199-d76f-4813-8ce7-94d7e724b119",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 1484.45,
+      "currency": "USD",
+      "timestamp": "2026-07-20T16:00:44.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "836f224b-0b8b-46f7-aad4-4e111397a29f",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 2130.32,
+      "currency": "USD",
+      "timestamp": "2026-05-29T21:23:00.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "d0154898-9187-49a0-b866-3c7ca92dcf4f",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 1281.75,
+      "currency": "USD",
+      "timestamp": "2026-04-26T08:39:23.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "bd9277a4-1d2a-4042-842a-2f6480e1be4d",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 905.97,
+      "currency": "USD",
+      "timestamp": "2026-08-22T10:03:04.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "6a8f7654-1552-47c7-8b96-13466498da39",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 1576.59,
+      "currency": "GBP",
+      "timestamp": "2026-09-20T06:13:59.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "9fb209b1-732f-4932-ab96-2697c1e1f813",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 1713.26,
+      "currency": "USD",
+      "timestamp": "2026-04-22T14:38:03.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "fb708dd7-bf3d-4023-9406-42a82f61e334",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 4359.36,
+      "currency": "USD",
+      "timestamp": "2026-01-17T21:02:38.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "651a6277-017f-419f-8496-179588ccddbc",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 866.96,
+      "currency": "EUR",
+      "timestamp": "2026-04-14T09:02:35.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a86025bf-de68-466d-a7b4-1520b11a3696",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 3632.3,
+      "currency": "EUR",
+      "timestamp": "2026-04-24T14:46:27.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "5c58b8ba-9de2-4d3f-b952-f1e8d029733c",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 4025.16,
+      "currency": "USD",
+      "timestamp": "2026-06-25T02:34:34.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1ca64c33-30d8-47cd-838d-5f5a2296d3f6",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 3483.2,
+      "currency": "USD",
+      "timestamp": "2025-12-15T11:39:45.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a60c2bed-7b2a-4f10-b590-103906dd5e19",
+      "entity_id": null,
+      "category": "Clothing",
+      "transaction_amount": 2184.58,
+      "currency": "GBP",
+      "timestamp": "2026-09-26T12:18:59.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "160a3a13-30df-450c-89e0-8b89ca3e3238",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 749.35,
+      "currency": "EUR",
+      "timestamp": "2026-09-26T04:38:55.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "270524cb-e704-4115-aa85-e3b11dd03ecd",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 4819.7,
+      "currency": "EUR",
+      "timestamp": "2025-11-05T09:05:30.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3e1cfa14-95d1-4384-b313-7fa5dc1b9eb1",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 2851.46,
+      "currency": "EUR",
+      "timestamp": "2025-11-04T12:41:17.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a1628abf-1a48-4803-8204-0c8155773297",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 4897.64,
+      "currency": "EUR",
+      "timestamp": "2025-11-16T16:22:23.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "8de6e6b3-bb27-46bc-9888-f0d99423251e",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 2442.61,
+      "currency": "EUR",
+      "timestamp": "2026-08-10T03:48:43.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "ef6e9295-9c8a-4485-b980-50a6974e598d",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 1167.21,
+      "currency": "USD",
+      "timestamp": "2026-05-15T06:33:58.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "50db8e34-938f-4b90-ac08-7d6c04de78f8",
+      "entity_id": null,
+      "category": "Electronics",
+      "transaction_amount": 1346.57,
+      "currency": "GBP",
+      "timestamp": "2026-05-21T01:56:21.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "7eaa7a91-1def-4401-b92c-ad76e39eb7c2",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 2247.14,
+      "currency": "EUR",
+      "timestamp": "2026-04-07T21:44:49.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "31341ab8-b9e8-4781-89bb-1313294d25fc",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 2196.17,
+      "currency": "GBP",
+      "timestamp": "2025-11-04T23:40:43.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "56d2bb12-af5a-4636-a8b8-d2529670cd19",
+      "entity_id": null,
+      "category": "Retail",
+      "transaction_amount": 4268.73,
+      "currency": "GBP",
+      "timestamp": "2026-01-21T05:31:06.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "4b1bdf3b-e217-46df-a193-9b9377ed78d9",
+      "entity_id": null,
+      "category": "Healthcare",
+      "transaction_amount": 4799.42,
+      "currency": "GBP",
+      "timestamp": "2026-07-10T01:02:16.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "78ea47e2-cbc4-4d42-9c39-b57dbc0dbd13",
+      "entity_id": null,
+      "category": "Clothing",
+      "transaction_amount": 3112.99,
+      "currency": "EUR",
+      "timestamp": "2026-07-08T07:29:12.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "7b9ea9eb-aac4-463f-9610-ac0abfcf214e",
+      "entity_id": null,
+      "category": "Clothing",
+      "transaction_amount": 1005.43,
+      "currency": "GBP",
+      "timestamp": "2026-07-23T03:30:42.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f16c084e-6a7d-4379-8b21-aa8019d4d39a",
+      "entity_id": null,
+      "category": "Grocery",
+      "transaction_amount": 1181.25,
+      "currency": "GBP",
+      "timestamp": "2026-05-07T01:14:51.529095"
+    },
+    "error": [
+      {
+        "type": "uuid_type",
+        "loc": [
+          "entity_id"
+        ],
+        "msg": "UUID input should be a string, bytes or UUID object",
+        "input": null
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "e1831003-5bd9-42c7-84a4-34e7ffcf956e",
+      "entity_id": "597e6845-e277-48c5-b37d-1fb6d11376e0",
+      "category": "Grocery",
+      "transaction_amount": 3387.87,
+      "currency": "INR",
+      "timestamp": "2025-11-15T04:16:32.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "082f2fb9-80e3-4e4f-a4fb-2a3bdc05ae03",
+      "entity_id": "b5def807-4a96-4478-a72b-dddd511eeeb8",
+      "category": "Electronics",
+      "transaction_amount": 1695.3,
+      "currency": "INR",
+      "timestamp": "2026-09-14T10:47:06.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "395e54f0-8fde-442a-9ee5-69303a085f6a",
+      "entity_id": "231ae7c7-4c9b-4f5c-a188-7eaf5e1885c3",
+      "category": "Grocery",
+      "transaction_amount": 4968.38,
+      "currency": "INR",
+      "timestamp": "2026-06-24T17:50:52.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "8e990457-e0b1-4762-8524-f0470bf2fb51",
+      "entity_id": "9f708368-cb3c-48ca-a392-57316b79afcc",
+      "category": "Clothing",
+      "transaction_amount": 4268.51,
+      "currency": "INR",
+      "timestamp": "2026-08-22T16:49:43.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "0ce87570-b4d6-43e6-9aa9-0d26ab636d66",
+      "entity_id": "82fc9294-f9a6-4522-8a83-5709ba146757",
+      "category": "Healthcare",
+      "transaction_amount": 3996.94,
+      "currency": "INR",
+      "timestamp": "2026-06-19T14:07:49.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c83b6467-9c12-47d2-9c4e-7b65c81a5f0f",
+      "entity_id": "b55beaaa-cb53-40be-9e7b-4866d2705470",
+      "category": "Electronics",
+      "transaction_amount": 4119.82,
+      "currency": "INR",
+      "timestamp": "2025-12-08T00:43:40.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1e392331-a142-468f-aac3-8bd31afc388c",
+      "entity_id": "3ba58126-3ff6-4f41-9508-2801e3be7ca0",
+      "category": "Clothing",
+      "transaction_amount": 4555.82,
+      "currency": "INR",
+      "timestamp": "2026-05-12T22:10:34.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c3101e2e-7107-414f-b54a-31ba4ac8927e",
+      "entity_id": "44cdbfdd-df9b-441e-87f7-bda1bff15840",
+      "category": "Healthcare",
+      "transaction_amount": 3665.43,
+      "currency": "INR",
+      "timestamp": "2026-08-06T18:27:05.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "d1b48562-55a8-46a1-9d1d-dcb7a5a7e280",
+      "entity_id": "d248a9a7-ac1a-4554-83c7-5611ffe3fa49",
+      "category": "Electronics",
+      "transaction_amount": 4244.49,
+      "currency": "INR",
+      "timestamp": "2025-12-26T19:53:04.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3ecd0888-01af-4939-84df-5b8dc4eb8e5d",
+      "entity_id": "355cca9c-fb6b-41dc-aa7f-7e0685695f97",
+      "category": "Healthcare",
+      "transaction_amount": 1713.19,
+      "currency": "INR",
+      "timestamp": "2026-04-07T08:48:48.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b717548d-5f57-4d27-8419-99b615d1e2f8",
+      "entity_id": "d3d877a8-8a0e-457a-9a7d-509de6e8790b",
+      "category": "Healthcare",
+      "transaction_amount": 1809.61,
+      "currency": "INR",
+      "timestamp": "2026-01-02T10:01:11.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "87972916-c0e5-4883-80d2-201b26cffe04",
+      "entity_id": "5a9a206a-16f1-42a2-86b9-19aa1a7167c7",
+      "category": "Clothing",
+      "transaction_amount": 698.59,
+      "currency": "INR",
+      "timestamp": "2026-01-31T05:30:57.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "7570d730-e5e7-4add-a8c8-7ed8eb035cda",
+      "entity_id": "e55b93ad-8976-4471-9d7f-57d1e45def26",
+      "category": "Retail",
+      "transaction_amount": 3975.09,
+      "currency": "INR",
+      "timestamp": "2026-04-06T10:59:57.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "028bffb6-c528-4c36-a545-034c714cd65e",
+      "entity_id": "bdce635f-bf90-4d6a-b5c6-06b54e003d55",
+      "category": "Retail",
+      "transaction_amount": 4718.78,
+      "currency": "INR",
+      "timestamp": "2025-11-08T11:09:17.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c5ba36af-fb60-4e1c-a6d2-975250970843",
+      "entity_id": "530a37df-0bc6-4066-8769-165fe746ccb9",
+      "category": "Healthcare",
+      "transaction_amount": 316.73,
+      "currency": "INR",
+      "timestamp": "2026-03-08T06:57:45.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "e70af828-26a4-4bef-a437-199cec2a322b",
+      "entity_id": "c8edabdd-4ef0-4f80-9d91-fe39d8014004",
+      "category": "Electronics",
+      "transaction_amount": 4888.89,
+      "currency": "INR",
+      "timestamp": "2026-07-11T07:01:55.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f9005224-8510-41c0-a035-4d75a90d75ad",
+      "entity_id": "9280c5aa-8dd4-495b-9c63-b6f306ba8cd3",
+      "category": "Healthcare",
+      "transaction_amount": 2015.99,
+      "currency": "INR",
+      "timestamp": "2026-09-03T05:37:24.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b8b791b0-4de8-4d1e-9fa0-bc178db969af",
+      "entity_id": "9a1e0036-5cba-4496-a848-92402fd90ce1",
+      "category": "Grocery",
+      "transaction_amount": 4547.06,
+      "currency": "INR",
+      "timestamp": "2026-07-27T01:35:02.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "9c433e67-871d-4bfc-a674-10de479fb5f3",
+      "entity_id": "eb45bc38-9cf6-4e33-8b5f-174b6c267b56",
+      "category": "Clothing",
+      "transaction_amount": 3504.47,
+      "currency": "INR",
+      "timestamp": "2026-09-14T01:58:33.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "9fd60922-8b5f-44aa-a338-6d523483a23b",
+      "entity_id": "c3a6b204-fc01-4a22-aed0-b0b27da56b6e",
+      "category": "Retail",
+      "transaction_amount": 3263.67,
+      "currency": "INR",
+      "timestamp": "2026-07-04T23:08:04.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a614f06a-c814-44cd-8fd4-2949e33ea976",
+      "entity_id": "67f1698c-f594-4a54-9f80-4eeb143a9aff",
+      "category": "Clothing",
+      "transaction_amount": 4406.06,
+      "currency": "INR",
+      "timestamp": "2026-03-10T23:42:47.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "b9a01137-63d6-4dd8-95a1-541489953dd1",
+      "entity_id": "da2d2156-913a-4734-8cb6-8571abc53545",
+      "category": "Clothing",
+      "transaction_amount": 2607.14,
+      "currency": "INR",
+      "timestamp": "2025-11-11T06:19:52.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "8d41d660-82fc-4908-97c3-05fc36b74e27",
+      "entity_id": "3f8ea40a-6b0a-40e3-9d89-6047dd39d793",
+      "category": "Retail",
+      "transaction_amount": 1710.14,
+      "currency": "INR",
+      "timestamp": "2026-02-15T04:08:37.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "cbede473-e3eb-47c1-8723-e11e05fef7bc",
+      "entity_id": "2c3d17e2-6d39-4a75-aee7-0ab261fa8e7a",
+      "category": "Retail",
+      "transaction_amount": 1300.86,
+      "currency": "INR",
+      "timestamp": "2025-12-29T01:18:25.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1c45eba3-8159-4ce5-bca9-10286c3912ef",
+      "entity_id": "6593b659-172e-4c68-82aa-5c4680499bbf",
+      "category": "Electronics",
+      "transaction_amount": 4209.5,
+      "currency": "INR",
+      "timestamp": "2026-08-06T01:18:04.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "0c3838a5-1fb2-45c4-9abe-c3fa81eb7abb",
+      "entity_id": "59bb8900-6198-4718-84c7-aab4ca20508d",
+      "category": "Electronics",
+      "transaction_amount": 2249.2,
+      "currency": "INR",
+      "timestamp": "2026-06-28T09:42:36.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "fba2a5f1-56c7-4990-b401-73c10155aa51",
+      "entity_id": "780b3657-117b-455b-b094-4bdb26a524e3",
+      "category": "Retail",
+      "transaction_amount": 2832.33,
+      "currency": "INR",
+      "timestamp": "2026-08-10T01:45:54.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "3bdccce0-9875-44da-9830-dffe88859ae5",
+      "entity_id": "41dc1c60-a5f6-4735-b57b-6b29bb2aa146",
+      "category": "Grocery",
+      "transaction_amount": 1429.83,
+      "currency": "INR",
+      "timestamp": "2026-07-13T08:50:42.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "60aeb372-b6df-44a6-a3d5-2be0ac249f30",
+      "entity_id": "4eb9047d-ba2a-43d9-bcf2-fc3bd95874c2",
+      "category": "Clothing",
+      "transaction_amount": 535.08,
+      "currency": "INR",
+      "timestamp": "2026-06-07T08:18:27.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "5c7c0778-c74f-454f-92a5-d216314b4d36",
+      "entity_id": "15b24e1d-9715-4633-9d4e-db71eb2ec80e",
+      "category": "Electronics",
+      "transaction_amount": 741.3,
+      "currency": "INR",
+      "timestamp": "2026-06-11T01:49:01.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "0febecad-179d-4ae3-94fa-7d50697c4d7d",
+      "entity_id": "6f46f1b1-2ace-4aa9-9032-46b3255bfc1c",
+      "category": "Clothing",
+      "transaction_amount": 2386.5,
+      "currency": "INR",
+      "timestamp": "2026-09-14T15:20:33.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "671adde5-86b8-4fef-ad44-3c485e8a10da",
+      "entity_id": "c926a021-19da-4262-8790-3dc5900c0af7",
+      "category": "Retail",
+      "transaction_amount": 2599.54,
+      "currency": "INR",
+      "timestamp": "2025-11-27T05:26:03.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "a2ef1e21-7fb3-4568-9594-eea843816e47",
+      "entity_id": "e7bbaefc-8f3d-497f-a6b0-da0ab98f5dbe",
+      "category": "Healthcare",
+      "transaction_amount": 3448.2,
+      "currency": "INR",
+      "timestamp": "2026-10-01T13:30:40.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "29b01062-d2e5-4512-aabb-6c41f92862a9",
+      "entity_id": "764414fd-8ae7-49ed-9e8e-de0ba85c6e4a",
+      "category": "Retail",
+      "transaction_amount": 644.35,
+      "currency": "INR",
+      "timestamp": "2026-08-08T01:50:25.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "83601fb5-b45b-4ad3-b7d0-eea0211f632b",
+      "entity_id": "8cca8963-2e2e-47a4-8ade-c3792ab403f6",
+      "category": "Retail",
+      "transaction_amount": 599.11,
+      "currency": "INR",
+      "timestamp": "2026-04-23T15:56:12.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "2826a561-bf1a-41d7-8858-f527792dd499",
+      "entity_id": "850b7073-7f13-4e67-9008-cdc99d421bae",
+      "category": "Retail",
+      "transaction_amount": 1852.97,
+      "currency": "INR",
+      "timestamp": "2026-04-22T18:40:53.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "1ef11a27-1c3e-4da4-a89b-4fb2da317fd7",
+      "entity_id": "1e5ebe54-5907-4299-9c3b-bdd8a74e02a9",
+      "category": "Retail",
+      "transaction_amount": 1455.06,
+      "currency": "INR",
+      "timestamp": "2026-06-18T13:03:52.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "fdb37e45-4e0f-49b9-9f18-7c021e245a97",
+      "entity_id": "08987462-980c-495c-99d4-5deb1139fa12",
+      "category": "Grocery",
+      "transaction_amount": 1476.97,
+      "currency": "INR",
+      "timestamp": "2025-12-26T10:38:44.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "96f19d54-c8a6-4005-a463-463c249316b4",
+      "entity_id": "5a9a206a-16f1-42a2-86b9-19aa1a7167c7",
+      "category": "Electronics",
+      "transaction_amount": 4684.74,
+      "currency": "INR",
+      "timestamp": "2026-08-31T04:17:49.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "d1b22e3c-2ede-4487-b730-58be48924bd6",
+      "entity_id": "390fecf5-e841-4a39-b901-2b9c6057153a",
+      "category": "Healthcare",
+      "transaction_amount": 20.41,
+      "currency": "INR",
+      "timestamp": "2026-10-08T04:21:28.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "6ae63480-0b70-4f97-9ed4-4617114be8ca",
+      "entity_id": "28b2bf21-4d47-4ed6-a666-3769e1d46f82",
+      "category": "Retail",
+      "transaction_amount": 1555.41,
+      "currency": "INR",
+      "timestamp": "2026-03-12T07:23:16.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "79a8832f-6097-4a15-8806-82d3567b9583",
+      "entity_id": "355cca9c-fb6b-41dc-aa7f-7e0685695f97",
+      "category": "Retail",
+      "transaction_amount": 672.72,
+      "currency": "INR",
+      "timestamp": "2026-10-12T13:01:47.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "732e9280-c2fd-4177-b5ff-e99aa2ef0f53",
+      "entity_id": "b7461b72-5d00-4f1b-a83c-1c2bb776e729",
+      "category": "Healthcare",
+      "transaction_amount": 753.42,
+      "currency": "INR",
+      "timestamp": "2026-05-11T22:29:03.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "aa1cd2d8-9ff0-4466-8cc0-744616dd58af",
+      "entity_id": "55273407-7cd2-492f-94b0-0f62c768b07f",
+      "category": "Healthcare",
+      "transaction_amount": 1942.3,
+      "currency": "INR",
+      "timestamp": "2026-03-03T04:58:46.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "aba23511-f544-428c-8bba-d72a8a7e9cce",
+      "entity_id": "363d75f1-89ba-49c8-bd71-7da33581a632",
+      "category": "Healthcare",
+      "transaction_amount": 3682.2,
+      "currency": "INR",
+      "timestamp": "2026-03-08T13:26:00.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "06598f83-b50b-4ff8-aa65-bae3ddaf2233",
+      "entity_id": "3ccff6eb-4c22-42f3-8811-e562a91cf192",
+      "category": "Grocery",
+      "transaction_amount": 2809.61,
+      "currency": "INR",
+      "timestamp": "2025-12-01T06:54:09.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "f485e944-3142-40c7-95cc-861a8f31bf2e",
+      "entity_id": "4b46ef33-95e7-4614-82b4-02815f269466",
+      "category": "Retail",
+      "transaction_amount": 2888.51,
+      "currency": "INR",
+      "timestamp": "2026-07-04T23:27:33.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "79d05e2b-c024-4b51-b07c-3f638591a818",
+      "entity_id": "3d175712-d8b2-4277-b413-db19bade8d5d",
+      "category": "Electronics",
+      "transaction_amount": 610.21,
+      "currency": "INR",
+      "timestamp": "2026-06-06T08:48:25.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "c968e8ee-4663-41a1-84db-73f3f65e52fd",
+      "entity_id": "56c438e4-69ef-4fb1-ba7e-8e14e359eee1",
+      "category": "Clothing",
+      "transaction_amount": 4150.16,
+      "currency": "INR",
+      "timestamp": "2026-01-05T17:04:26.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  },
+  {
+    "record": {
+      "transaction_id": "9b5ad674-8896-44b2-8e92-605915ab7cd2",
+      "entity_id": "9a3b0319-32f5-4510-a4ee-b4a6c14565c7",
+      "category": "Healthcare",
+      "transaction_amount": 2948.58,
+      "currency": "INR",
+      "timestamp": "2026-04-18T10:15:46.529095"
+    },
+    "error": [
+      {
+        "type": "value_error",
+        "loc": [
+          "currency"
+        ],
+        "msg": "Value error, Invalid currency: INR",
+        "input": "INR",
+        "ctx": {
+          "error": "Invalid currency: INR"
+        }
+      }
+    ]
+  }
+]

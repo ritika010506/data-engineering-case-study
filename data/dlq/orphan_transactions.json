@@ -1,0 +1,552 @@
+[
+  {
+    "record": {
+      "transaction_id": "6fe05fa2-5707-4494-85f4-949bef10b6cc",
+      "entity_id": "cc502a89-8a08-440e-a239-5ad5af1f798c",
+      "category": "Healthcare",
+      "transaction_amount": 130.04,
+      "currency": "GBP",
+      "timestamp": "2026-09-27 15:55:38.529095"
+    },
+    "error": "Referenced entity_id 'cc502a89-8a08-440e-a239-5ad5af1f798c' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "1d59598c-174d-4b87-81d6-676a61cb78c3",
+      "entity_id": "c146ed52-e73b-4913-94ad-345ae3239264",
+      "category": "Retail",
+      "transaction_amount": 849.1,
+      "currency": "USD",
+      "timestamp": "2026-02-28 03:57:46.529095"
+    },
+    "error": "Referenced entity_id 'c146ed52-e73b-4913-94ad-345ae3239264' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "277b71ea-16f1-45cb-84af-9dc9416c0562",
+      "entity_id": "c74d8df0-88f7-4097-97f2-a45fe7515d4b",
+      "category": "Healthcare",
+      "transaction_amount": 3396.26,
+      "currency": "USD",
+      "timestamp": "2026-01-06 20:20:31.529095"
+    },
+    "error": "Referenced entity_id 'c74d8df0-88f7-4097-97f2-a45fe7515d4b' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "06f4b0ee-2e74-4569-9346-405cf60c2dd3",
+      "entity_id": "79ec958b-4d26-4574-b9ea-5621661423a7",
+      "category": "Electronics",
+      "transaction_amount": 1497.14,
+      "currency": "USD",
+      "timestamp": "2026-06-23 13:04:12.529095"
+    },
+    "error": "Referenced entity_id '79ec958b-4d26-4574-b9ea-5621661423a7' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "52ffeff5-e49c-4edd-a9ae-c17b24784b7d",
+      "entity_id": "277664d0-d25c-4d37-af16-d03b987593c3",
+      "category": "Healthcare",
+      "transaction_amount": 4708.47,
+      "currency": "USD",
+      "timestamp": "2026-03-01 04:44:48.529095"
+    },
+    "error": "Referenced entity_id '277664d0-d25c-4d37-af16-d03b987593c3' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "98d54b7e-c08b-4631-bd57-ee2733daefc1",
+      "entity_id": "cc502a89-8a08-440e-a239-5ad5af1f798c",
+      "category": "Clothing",
+      "transaction_amount": 2469.97,
+      "currency": "GBP",
+      "timestamp": "2025-11-17 01:16:59.529095"
+    },
+    "error": "Referenced entity_id 'cc502a89-8a08-440e-a239-5ad5af1f798c' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "0f8593c3-44f0-4717-9d75-f901f309106e",
+      "entity_id": "0d99c071-f7c8-435f-8c83-bc68e6ace59a",
+      "category": "Healthcare",
+      "transaction_amount": 2770.07,
+      "currency": "USD",
+      "timestamp": "2026-03-26 10:39:28.529095"
+    },
+    "error": "Referenced entity_id '0d99c071-f7c8-435f-8c83-bc68e6ace59a' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "3bd66a06-a22f-4331-a851-83410766699f",
+      "entity_id": "c6f903cf-4027-4514-ba40-662f9243a301",
+      "category": "Electronics",
+      "transaction_amount": 1353.11,
+      "currency": "GBP",
+      "timestamp": "2026-05-03 22:32:59.529095"
+    },
+    "error": "Referenced entity_id 'c6f903cf-4027-4514-ba40-662f9243a301' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "8e014eb3-c352-4ba4-bf0e-924b19fc8579",
+      "entity_id": "c53f4f7e-96b6-4287-ac00-f929bbfbf76c",
+      "category": "Clothing",
+      "transaction_amount": 1530.02,
+      "currency": "EUR",
+      "timestamp": "2026-07-17 02:06:29.529095"
+    },
+    "error": "Referenced entity_id 'c53f4f7e-96b6-4287-ac00-f929bbfbf76c' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "801c5617-a2c3-4917-98a5-aa52157b0495",
+      "entity_id": "67e2189b-f4b4-4704-8edb-6dc82d19bd52",
+      "category": "Clothing",
+      "transaction_amount": 1872.79,
+      "currency": "USD",
+      "timestamp": "2026-04-19 02:36:00.529095"
+    },
+    "error": "Referenced entity_id '67e2189b-f4b4-4704-8edb-6dc82d19bd52' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "6c7b0a77-f3de-4bc2-899b-ef4b3ec2e72a",
+      "entity_id": "03a2cee9-41c7-49b3-9b9c-9b7c4674a0eb",
+      "category": "Retail",
+      "transaction_amount": 2264.19,
+      "currency": "USD",
+      "timestamp": "2026-08-27 14:43:58.529095"
+    },
+    "error": "Referenced entity_id '03a2cee9-41c7-49b3-9b9c-9b7c4674a0eb' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "9ee827fa-d451-459f-b60b-988176f36fc7",
+      "entity_id": "63d5e750-4a9f-450e-8800-61b673f621a8",
+      "category": "Clothing",
+      "transaction_amount": 12.71,
+      "currency": "EUR",
+      "timestamp": "2026-09-08 12:07:57.529095"
+    },
+    "error": "Referenced entity_id '63d5e750-4a9f-450e-8800-61b673f621a8' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "ae1455f4-d6e8-4ad3-803a-423a990ddc73",
+      "entity_id": "cecea5d3-5ea9-49ef-b257-dcb6a8be6c80",
+      "category": "Grocery",
+      "transaction_amount": 4213.77,
+      "currency": "USD",
+      "timestamp": "2026-02-11 01:06:43.529095"
+    },
+    "error": "Referenced entity_id 'cecea5d3-5ea9-49ef-b257-dcb6a8be6c80' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "0ba4e32b-4804-444c-82a4-e22ed7371450",
+      "entity_id": "9abc9859-593e-4c83-8497-d0a8484204d5",
+      "category": "Retail",
+      "transaction_amount": 2819.78,
+      "currency": "EUR",
+      "timestamp": "2026-06-12 03:49:22.529095"
+    },
+    "error": "Referenced entity_id '9abc9859-593e-4c83-8497-d0a8484204d5' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "d49b862d-1f7b-4b19-b2cc-43726532b3ae",
+      "entity_id": "76812ad7-9898-4758-9798-00c31d444351",
+      "category": "Retail",
+      "transaction_amount": 4994.12,
+      "currency": "EUR",
+      "timestamp": "2025-12-01 17:56:58.529095"
+    },
+    "error": "Referenced entity_id '76812ad7-9898-4758-9798-00c31d444351' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "cd539417-f519-4ab9-813b-e64b9c4624d3",
+      "entity_id": "c6f06a71-46fc-4ff2-92f1-78bdc7de01a9",
+      "category": "Grocery",
+      "transaction_amount": 3179.5,
+      "currency": "GBP",
+      "timestamp": "2026-01-17 19:00:36.529095"
+    },
+    "error": "Referenced entity_id 'c6f06a71-46fc-4ff2-92f1-78bdc7de01a9' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "fba75385-a98a-4cb0-bef5-27fe45e4307a",
+      "entity_id": "9c48c830-6e89-44f4-9820-10d1f4c873a7",
+      "category": "Grocery",
+      "transaction_amount": 1061.01,
+      "currency": "GBP",
+      "timestamp": "2026-04-21 17:22:57.529095"
+    },
+    "error": "Referenced entity_id '9c48c830-6e89-44f4-9820-10d1f4c873a7' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "223bd9be-b11c-420e-a9fd-197204105bd1",
+      "entity_id": "03a2cee9-41c7-49b3-9b9c-9b7c4674a0eb",
+      "category": "Electronics",
+      "transaction_amount": 3047.85,
+      "currency": "USD",
+      "timestamp": "2026-03-04 11:11:15.529095"
+    },
+    "error": "Referenced entity_id '03a2cee9-41c7-49b3-9b9c-9b7c4674a0eb' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "69c50d69-2c6c-4b5a-ac36-7cb90273be68",
+      "entity_id": "424d9430-b724-49b7-b10b-7fa9e9a0c20d",
+      "category": "Healthcare",
+      "transaction_amount": 3814.7,
+      "currency": "GBP",
+      "timestamp": "2026-10-12 23:49:13.529095"
+    },
+    "error": "Referenced entity_id '424d9430-b724-49b7-b10b-7fa9e9a0c20d' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "a6b96653-a62b-4d30-a070-bdb9c98cd5fb",
+      "entity_id": "0d99c071-f7c8-435f-8c83-bc68e6ace59a",
+      "category": "Retail",
+      "transaction_amount": 164.43,
+      "currency": "GBP",
+      "timestamp": "2025-11-28 10:06:20.529095"
+    },
+    "error": "Referenced entity_id '0d99c071-f7c8-435f-8c83-bc68e6ace59a' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "f8d78cbc-5a5d-4cc5-9f98-2a0dac184ef9",
+      "entity_id": "67e2189b-f4b4-4704-8edb-6dc82d19bd52",
+      "category": "Healthcare",
+      "transaction_amount": 4139.06,
+      "currency": "EUR",
+      "timestamp": "2026-04-18 19:05:32.529095"
+    },
+    "error": "Referenced entity_id '67e2189b-f4b4-4704-8edb-6dc82d19bd52' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "cfd6b161-c499-48dd-96d2-42272d5c1a61",
+      "entity_id": "59f8068e-1ce6-4a9f-b9af-834810bbc60d",
+      "category": "Electronics",
+      "transaction_amount": 632.57,
+      "currency": "EUR",
+      "timestamp": "2026-03-27 02:31:30.529095"
+    },
+    "error": "Referenced entity_id '59f8068e-1ce6-4a9f-b9af-834810bbc60d' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "38b595b9-0265-4223-b1cf-d7723167d947",
+      "entity_id": "2f900058-39ca-4826-9af5-6a23627ca9f7",
+      "category": "Electronics",
+      "transaction_amount": 3794.52,
+      "currency": "GBP",
+      "timestamp": "2026-10-26 12:12:23.529095"
+    },
+    "error": "Referenced entity_id '2f900058-39ca-4826-9af5-6a23627ca9f7' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "17080bbd-3106-48ce-9b9a-289ab58dfc59",
+      "entity_id": "2c4f5416-3c74-4c16-b1b2-b5f88b661d1f",
+      "category": "Retail",
+      "transaction_amount": 3129.93,
+      "currency": "GBP",
+      "timestamp": "2026-10-20 17:48:08.529095"
+    },
+    "error": "Referenced entity_id '2c4f5416-3c74-4c16-b1b2-b5f88b661d1f' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "f7a0be7a-7e6a-4ea7-bae9-16343bf85406",
+      "entity_id": "9749d2b0-b1ad-482a-905c-c78d354f184e",
+      "category": "Electronics",
+      "transaction_amount": 1410.97,
+      "currency": "GBP",
+      "timestamp": "2026-01-21 18:59:23.529095"
+    },
+    "error": "Referenced entity_id '9749d2b0-b1ad-482a-905c-c78d354f184e' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "3232be72-01d3-4033-b586-ae6f9b24955c",
+      "entity_id": "af7ce609-1a99-4ae0-8677-b81d1902c93b",
+      "category": "Healthcare",
+      "transaction_amount": 563.62,
+      "currency": "EUR",
+      "timestamp": "2026-07-29 11:09:48.529095"
+    },
+    "error": "Referenced entity_id 'af7ce609-1a99-4ae0-8677-b81d1902c93b' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "8d41cb4c-2ba4-4308-be77-86aa80155756",
+      "entity_id": "c146ed52-e73b-4913-94ad-345ae3239264",
+      "category": "Retail",
+      "transaction_amount": 3364.16,
+      "currency": "GBP",
+      "timestamp": "2026-06-05 22:09:41.529095"
+    },
+    "error": "Referenced entity_id 'c146ed52-e73b-4913-94ad-345ae3239264' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "20d4c165-9691-445d-90bb-794e2cef7557",
+      "entity_id": "28b58db5-8c46-4308-be62-89819ef1a74f",
+      "category": "Electronics",
+      "transaction_amount": 645.88,
+      "currency": "GBP",
+      "timestamp": "2026-06-04 09:13:58.529095"
+    },
+    "error": "Referenced entity_id '28b58db5-8c46-4308-be62-89819ef1a74f' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "ba991da0-85e8-4165-a189-6b253a5bece9",
+      "entity_id": "4b68d94d-40da-4c7d-af2b-dc13b2165b5a",
+      "category": "Grocery",
+      "transaction_amount": 967.34,
+      "currency": "GBP",
+      "timestamp": "2026-09-25 03:23:09.529095"
+    },
+    "error": "Referenced entity_id '4b68d94d-40da-4c7d-af2b-dc13b2165b5a' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "ad80016d-b167-44b1-b845-846efdf0861e",
+      "entity_id": "510c8c48-e09e-42a3-ae77-e24934a63e76",
+      "category": "Retail",
+      "transaction_amount": 1272.08,
+      "currency": "GBP",
+      "timestamp": "2025-11-05 21:12:53.529095"
+    },
+    "error": "Referenced entity_id '510c8c48-e09e-42a3-ae77-e24934a63e76' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "6d575fd1-f019-455f-8080-1ed9743480a1",
+      "entity_id": "dd9d2e4d-483e-4d69-9c7a-bd161c153057",
+      "category": "Electronics",
+      "transaction_amount": 4270.76,
+      "currency": "EUR",
+      "timestamp": "2026-10-05 20:51:02.529095"
+    },
+    "error": "Referenced entity_id 'dd9d2e4d-483e-4d69-9c7a-bd161c153057' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "46273272-6829-44ca-bebf-4c56d826c496",
+      "entity_id": "9abc9859-593e-4c83-8497-d0a8484204d5",
+      "category": "Retail",
+      "transaction_amount": 2338.27,
+      "currency": "EUR",
+      "timestamp": "2026-04-13 21:23:07.529095"
+    },
+    "error": "Referenced entity_id '9abc9859-593e-4c83-8497-d0a8484204d5' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "b8a1e477-e240-4060-8b20-802fc24f3f4c",
+      "entity_id": "16a46b83-9c2d-4672-a3d1-803c85fab5ea",
+      "category": "Electronics",
+      "transaction_amount": 1396.89,
+      "currency": "EUR",
+      "timestamp": "2026-05-16 18:55:40.529095"
+    },
+    "error": "Referenced entity_id '16a46b83-9c2d-4672-a3d1-803c85fab5ea' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "6450dd3c-0152-4e60-90f5-3bd872e89652",
+      "entity_id": "c4ca00d7-8a66-4e67-a4d4-d5a31bc2197e",
+      "category": "Grocery",
+      "transaction_amount": 418.23,
+      "currency": "GBP",
+      "timestamp": "2026-05-22 16:10:03.529095"
+    },
+    "error": "Referenced entity_id 'c4ca00d7-8a66-4e67-a4d4-d5a31bc2197e' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "39c2c1a2-bcc9-445c-bd81-fbc0067ec672",
+      "entity_id": "510c8c48-e09e-42a3-ae77-e24934a63e76",
+      "category": "Healthcare",
+      "transaction_amount": 4789.3,
+      "currency": "USD",
+      "timestamp": "2026-09-06 13:48:04.529095"
+    },
+    "error": "Referenced entity_id '510c8c48-e09e-42a3-ae77-e24934a63e76' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "10168d65-4f90-491a-9448-10de2a1b76e3",
+      "entity_id": "c6f06a71-46fc-4ff2-92f1-78bdc7de01a9",
+      "category": "Electronics",
+      "transaction_amount": 149.09,
+      "currency": "EUR",
+      "timestamp": "2026-01-12 08:46:08.529095"
+    },
+    "error": "Referenced entity_id 'c6f06a71-46fc-4ff2-92f1-78bdc7de01a9' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "a05501d3-cc16-4b4e-97b0-18b0062667fc",
+      "entity_id": "b64e26cf-3c9b-4542-bb1d-23a8d8c823b0",
+      "category": "Grocery",
+      "transaction_amount": 4204.13,
+      "currency": "USD",
+      "timestamp": "2026-09-06 17:24:02.529095"
+    },
+    "error": "Referenced entity_id 'b64e26cf-3c9b-4542-bb1d-23a8d8c823b0' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "573ecc3a-f574-475b-bd05-1bf4793c4fbf",
+      "entity_id": "c8a4ae21-d9f8-40e9-93ad-3ead816ebf32",
+      "category": "Electronics",
+      "transaction_amount": 4109.95,
+      "currency": "GBP",
+      "timestamp": "2025-12-08 18:53:30.529095"
+    },
+    "error": "Referenced entity_id 'c8a4ae21-d9f8-40e9-93ad-3ead816ebf32' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "c6978476-12aa-48cf-b18c-55813c9b3b84",
+      "entity_id": "9abc9859-593e-4c83-8497-d0a8484204d5",
+      "category": "Retail",
+      "transaction_amount": 2198.26,
+      "currency": "USD",
+      "timestamp": "2026-09-01 07:23:46.529095"
+    },
+    "error": "Referenced entity_id '9abc9859-593e-4c83-8497-d0a8484204d5' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "15e59a0f-1ff4-4f0a-9435-0cb1724af3fb",
+      "entity_id": "28b58db5-8c46-4308-be62-89819ef1a74f",
+      "category": "Electronics",
+      "transaction_amount": 4584.4,
+      "currency": "EUR",
+      "timestamp": "2026-06-27 18:25:01.529095"
+    },
+    "error": "Referenced entity_id '28b58db5-8c46-4308-be62-89819ef1a74f' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "10a5b073-b180-4803-9902-5a2ce3dc8702",
+      "entity_id": "335f0d14-edb7-44e4-babb-66097de17a85",
+      "category": "Clothing",
+      "transaction_amount": 319.39,
+      "currency": "EUR",
+      "timestamp": "2026-02-26 13:43:12.529095"
+    },
+    "error": "Referenced entity_id '335f0d14-edb7-44e4-babb-66097de17a85' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "6e8d0018-a04d-4c84-9c59-5e034d2d3557",
+      "entity_id": "b9db1388-70af-46eb-a921-7ddc3cea1f89",
+      "category": "Electronics",
+      "transaction_amount": 3391.05,
+      "currency": "GBP",
+      "timestamp": "2025-11-18 04:24:47.529095"
+    },
+    "error": "Referenced entity_id 'b9db1388-70af-46eb-a921-7ddc3cea1f89' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "66d4b394-61a7-4114-9994-f7ba4b7faa4c",
+      "entity_id": "277664d0-d25c-4d37-af16-d03b987593c3",
+      "category": "Retail",
+      "transaction_amount": 3762.3,
+      "currency": "USD",
+      "timestamp": "2025-11-17 04:18:45.529095"
+    },
+    "error": "Referenced entity_id '277664d0-d25c-4d37-af16-d03b987593c3' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "9fbeffb3-a8e3-4c9b-8997-f2fa997dcd9a",
+      "entity_id": "cbf85149-b6da-49cd-914b-256c67db0943",
+      "category": "Healthcare",
+      "transaction_amount": 1925.76,
+      "currency": "EUR",
+      "timestamp": "2026-09-28 16:14:21.529095"
+    },
+    "error": "Referenced entity_id 'cbf85149-b6da-49cd-914b-256c67db0943' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "56f11afb-19ed-49a5-9e85-e4d49ec620e0",
+      "entity_id": "2f900058-39ca-4826-9af5-6a23627ca9f7",
+      "category": "Electronics",
+      "transaction_amount": 2275.84,
+      "currency": "EUR",
+      "timestamp": "2026-10-04 15:21:44.529095"
+    },
+    "error": "Referenced entity_id '2f900058-39ca-4826-9af5-6a23627ca9f7' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "03255820-1a49-4e98-9ba6-51ed314674a6",
+      "entity_id": "9abc9859-593e-4c83-8497-d0a8484204d5",
+      "category": "Electronics",
+      "transaction_amount": 2968.5,
+      "currency": "USD",
+      "timestamp": "2026-06-13 04:33:42.529095"
+    },
+    "error": "Referenced entity_id '9abc9859-593e-4c83-8497-d0a8484204d5' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "824723c3-a32a-4516-a040-54fb92be07c4",
+      "entity_id": "63d5e750-4a9f-450e-8800-61b673f621a8",
+      "category": "Grocery",
+      "transaction_amount": 2110.82,
+      "currency": "GBP",
+      "timestamp": "2026-10-14 03:05:00.529095"
+    },
+    "error": "Referenced entity_id '63d5e750-4a9f-450e-8800-61b673f621a8' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "233e84ac-3e3f-4da0-af98-ad3371d2e63f",
+      "entity_id": "49d93a08-277e-4fbc-aacf-f20fd707cb6d",
+      "category": "Electronics",
+      "transaction_amount": 311.85,
+      "currency": "EUR",
+      "timestamp": "2026-06-26 00:29:37.529095"
+    },
+    "error": "Referenced entity_id '49d93a08-277e-4fbc-aacf-f20fd707cb6d' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "a6d62330-f5b1-4be4-835c-35416f93be2a",
+      "entity_id": "cbf85149-b6da-49cd-914b-256c67db0943",
+      "category": "Grocery",
+      "transaction_amount": 1562.83,
+      "currency": "GBP",
+      "timestamp": "2026-06-11 21:53:12.529095"
+    },
+    "error": "Referenced entity_id 'cbf85149-b6da-49cd-914b-256c67db0943' does not exist in silver_entities."
+  },
+  {
+    "record": {
+      "transaction_id": "4f05495e-7832-459c-a5bc-99ae2547a8dc",
+      "entity_id": "91724023-09b1-45d6-ba6d-81ee0890f506",
+      "category": "Grocery",
+      "transaction_amount": 1462.41,
+      "currency": "USD",
+      "timestamp": "2026-08-25 01:53:15.529095"
+    },
+    "error": "Referenced entity_id '91724023-09b1-45d6-ba6d-81ee0890f506' does not exist in silver_entities."
+  }
+]
