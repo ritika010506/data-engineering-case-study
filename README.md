@@ -1,8 +1,8 @@
-**PROJECT OVERVIEW:**
+# **PROJECT OVERVIEW:**
 
 This project is done to build a local data engineering pipeline to test synthetically produced transaction and entity data. It validates the incoming records (using Pydantic contracts) by re-routing the invalid records to the Dead Letter Queue(DLQ) and loads the valid record into the DuckDB database (Bronze Layer). In the Silver Layer, the Bronze data is now cleaned and the relationships between entities and transactions are checked for validity. The Gold Star Schema is then built with the valid records in order to have a clean dataset and executes SQL queries on them.
 
-**1.**     **SETUP:**
+## **1.**     **SETUP:**
 
 Prerequisites: Python 3.10 or later versions
 
@@ -14,7 +14,7 @@ python -m pip install --upgrade pip
 
 pip install -r requirements.txt
 
-**2.**     **DATA GENERATION:**
+## **2.**     **DATA GENERATION:**
 
 Synthetic data is generated using Python. The generator is made to create two files:
 
@@ -50,7 +50,7 @@ The code contains a predefined list of names, regions and other values. Python w
 
 The generator code is made in such a way that duplicates/malformed addresses/missing values or other invalid data rows are also produced.
 
-**3.**     **PIPELINE EXECUTION:**
+## **3.**     **PIPELINE EXECUTION:**
 
 The run_pipeline.py file runs the file and provides the outputs of the stages in this order:
 
@@ -68,7 +68,7 @@ vi)            The valid records pass the silver layer and are rewritten in the 
 
 vii)          The SQL queries to be executed are run against the final table and the results are displayed.
 
-**4.**     **TESTING:**
+## **4.**     **TESTING:**
 
 Pytest finds the test functions, runs them and checks whether the results match the expected results. The required tests were run and passed successfully.
 
@@ -94,7 +94,7 @@ ix)            Test 9- Empty entity
 
 x)              Test 10- Valid entity accepted
 
-**5.**     **ARCHITECTURE:**
+## **5.**     **ARCHITECTURE:**
 
 A Medallion Architecture was built using Python, Pydantic and DuckDB with the following stages:
 
@@ -112,7 +112,7 @@ vi)            Integration: The single file with the entire pipeline is built an
 
 vii)          Testing: pytest is used to check if all the cases specified are handled successfully.
 
-**6.**     **DESIGN DECISIONS:**
+## **6.**     **DESIGN DECISIONS:**
 
 Why the following was used:
 
@@ -132,7 +132,7 @@ iv)            Star Schema:
 
 This is done in order to have different data attributes organized separately in order to make analysis easier. The fact_transactions table would be the centre and the dim_entity and dim_date tables will be connected to the centre.
 
-**7.**   **RUN LOCALLY TO TEST:**
+## **7.**   **RUN LOCALLY TO TEST:**
 
 Run these commands after installing packages in requirements.txt:
 
