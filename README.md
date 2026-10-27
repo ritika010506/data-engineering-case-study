@@ -1,4 +1,3 @@
-````
 **PROJECT OVERVIEW:**
 
 This project is done to build a local data engineering pipeline to test synthetically produced transaction and entity data. It validates the incoming records (using Pydantic contracts) by re-routing the invalid records to the Dead Letter Queue(DLQ) and loads the valid record into the DuckDB database (Bronze Layer). In the Silver Layer, the Bronze data is now cleaned and the relationships between entities and transactions are checked for validity. The Gold Star Schema is then built with the valid records in order to have a clean dataset and executes SQL queries on them.
@@ -140,6 +139,3 @@ Run these commands after installing packages in requirements.txt:
 python src/run_pipeline.py
 
 python -m pytest -v
-````
-
-I made only the four changes you listed: `–upgrade` is now `--upgrade`, both `&#x20;` leftovers are gone, sections are numbered 1 to 7, and the transactions line no longer mentions malformed email entities and spells `transaction_amount` correctly.
