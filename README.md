@@ -1,3 +1,5 @@
+### **CLOUD SCALING DISCUSSION** - **file named "Ritika_GoML - Cloud Discussion.docx"**
+
 # **PROJECT OVERVIEW:**
 
 This project is done to build a local data engineering pipeline to test synthetically produced transaction and entity data. It validates the incoming records (using Pydantic contracts) by re-routing the invalid records to the Dead Letter Queue(DLQ) and loads the valid record into the DuckDB database (Bronze Layer). In the Silver Layer, the Bronze data is now cleaned and the relationships between entities and transactions are checked for validity. The Gold Star Schema is then built with the valid records in order to have a clean dataset and executes SQL queries on them.
